@@ -1,7 +1,0 @@
-D:\Claude\Valheim\LavaPaint\bin\Release\net48\LavaPaint.dll
-D:\Claude\Valheim\LavaPaint\bin\Release\net48\LavaPaint.pdb
-D:\Claude\Valheim\LavaPaint\obj\Release\net48\LavaPaint.csproj.AssemblyReference.cache
-D:\Claude\Valheim\LavaPaint\obj\Release\net48\LavaPaint.GeneratedMSBuildEditorConfig.editorconfig
-D:\Claude\Valheim\LavaPaint\obj\Release\net48\LavaPaint.csproj.CoreCompileInputs.cache
-D:\Claude\Valheim\LavaPaint\obj\Release\net48\LavaPaint.dll
-D:\Claude\Valheim\LavaPaint\obj\Release\net48\LavaPaint.pdb
